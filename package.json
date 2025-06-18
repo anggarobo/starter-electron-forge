@@ -1,6 +1,6 @@
 {
-  "name": "starter-electron-forger",
-  "productName": "starter-electron-forger",
+  "name": "starter-electron-forge",
+  "productName": "starter-electron-forge",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
