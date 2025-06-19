@@ -29,7 +29,7 @@ This project is a personal exploration of building a desktop application using a
 ## 📁 Project Structure
 
 ```bash
-starter-electron-forger/
+starter-electron-forge/
 ├── src/
 │   ├── main/                   # Electron main process entry
 │   ├── renderer/               # React-based UI code
