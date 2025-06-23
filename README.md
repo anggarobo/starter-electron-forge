@@ -1,4 +1,4 @@
-### Check out other active POCs related to Electron at the following link.
+### Take a look at another active POC related to Electron at this link.
 
 [Electviter](https://github.com/anggarobo/electviter/)
 
