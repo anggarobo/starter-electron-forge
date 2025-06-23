@@ -1,9 +1,9 @@
-# 🚀 Starter Electron Forge
-
-
 ### Check out other active POCs related to Electron at the following link.
 
 [Electviter](https://github.com/anggarobo/electviter/)
+
+
+# 🚀 Starter Electron Forge
 
 
 This project is a personal exploration of building a desktop application using a modern stack consisting of **Electron**, **Electron Forge**, **Webpack**, **React**, and **TypeScript**. The goal is to understand how these technologies integrate and work together to create a cross-platform desktop app.
